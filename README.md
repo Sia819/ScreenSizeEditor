@@ -1,4 +1,5 @@
 # ScreenSizeEditor
 ScreenSizeEditor
 
-현재 VRChat 한정으로 작동하도록 되어있어서, 다른 프로그램에 작동시키려면 수정이 필요.
+- 현재로써는 VRChat 전용 창 크기 변경 프로그램
+- 다른 창에 적용시키려면 수정이 필요함.
